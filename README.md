@@ -42,11 +42,19 @@ This project uses machine learning techniques to predict house prices based on v
    https://github.com/JARVIS1069/House-price-prediction-/edit/main/README.md
 
 ## 📦 Requirements
-Python 3.x
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
--Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+
+## 🚀 Future Improvements
+- Use of advanced models (Random Forest, XGBoost)
+- Hyperparameter tuning
+- Web app deployment using Streamlit or Flask
+
+## 📬 Contact
+For queries or collaboration, feel free to reach out at arpeet1104@gmail.com or exploretech1109@gmail.com
